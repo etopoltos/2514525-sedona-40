@@ -2,6 +2,7 @@
 
 * Студент: [Ольга Полтинина](https://up.htmlacademy.ru/htmlcss/40/user/2514525).
 * Наставник: []()
+* Сайт: [Мой проект SEDONA](https://etopoltos.github.io/2514525-sedona-40/)
 
 ---
 
